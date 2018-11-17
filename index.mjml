@@ -1,0 +1,28 @@
+<mjml>
+  <mj-head>
+    <mj-title>JLL - Your 2018 Grant Performance Share Units</mj-title>
+    <mj-attributes>
+      <mj-class name="red-text" color="#ed1d25"></mj-class>
+      <mj-class name="grey" background-color="#c9cacc"></mj-class>
+    </mj-attributes>
+    <mj-style inline="inline">
+      a {
+        color: black;
+      }      
+      mj-button { 
+        background-color: #ed1d25;
+        color: white;
+      	padding: 10px;
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#eee">
+    
+    <mj-include path="./header.mjml" />
+    
+    <mj-include path="./body.mjml" />
+    
+    <mj-include path="./footer.mjml" />
+  
+  </mj-body>
+</mjml>

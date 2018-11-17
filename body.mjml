@@ -1,0 +1,17 @@
+<mj-section background-color="#fff">
+  <mj-column>
+    <mj-text>
+      <mj-text>As an Asia Pacific Executive Board Member, you are critical to driving our success. Your LTIP rewards you for business performance and progress on aligned goals across our business units and regions. It also reinforces that you are an important
+        shareholder of the company.</mj-text>
+      <br/>
+      <br/>
+      <mj-text>I am pleased to confirm your LTIP target grant for the 2018-20 period. This grant of performance share units will vest at the end of the three-year performance period, and you will be awareded JLL shares based on achievement of the LTIP metrics.</mj-text>
+      <br/>
+      <br/>
+      <mj-text>Your individual PSU Award Agreement is attached. For a summary of the terms, please see the PSU Award Agreement Overview.</mj-text>
+      <br/>
+      <br/>
+      <br/>
+      <mj-button mj-class="cta-button">View PSU Award Agreement Overview</mj-button>
+  </mj-column>
+</mj-section>

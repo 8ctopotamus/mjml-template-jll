@@ -1,0 +1,37 @@
+<mj-image src="https://icshelpsyou.com/wp-content/uploads/2018/11/paint-footer.jpg" padding="0"></mj-image>
+
+<mj-section mj-class="grey">
+  <mj-column width="70%">
+    <mj-text>
+      <h2 mj-class="red-text">Become familiar with JLL's Long-Term Initiative Program</h2>
+    </mj-text>
+    <mj-text>The Incentive Program is an important part of your overall compensation. Please take some time to review the Overview links. These explain the Initiative Program and our Beyond Goals.</mj-text>
+    <mj-image src="https://icshelpsyou.com/wp-content/uploads/2018/11/jll-signature.jpg"></mj-image>
+  </mj-column>
+  <mj-column width="30%">
+    <mj-text>
+      <h2>Links</h2>
+    </mj-text>
+
+    <mj-text>
+      <a href="https://login.microsoftonline.com/bfef2b06-d256-4f8e-bd03-8d3687987063/oauth2/authorize?client_id=00000003-0000-0ff1-ce00-000000000000&response_mode=form_post&response_type=code%20id_token&resource=00000003-0000-0ff1-ce00-000000000000&scope=openid&nonce=A683607F6CE058682ACBAC0EBBFB33134AF808CB57B4DA28-C04AF9E7B077FE325AD099EC878218B8BDE081210FDBBDE12D342369FDBFC414&redirect_uri=https:%2F%2Fjll2.sharepoint.com%2F_forms%2Fdefault.aspx&wsucxt=1&cobrandid=11bd8083-87e0-41b5-bb78-0bc43c8a8e8a&client-request-id=7160a39e-405c-7000-f408-2671365200f3">Long-Term Initiative Plan Overview</a>
+    </mj-text>
+
+    <mj-text>
+      <a href="https://login.microsoftonline.com/bfef2b06-d256-4f8e-bd03-8d3687987063/oauth2/authorize?client_id=00000003-0000-0ff1-ce00-000000000000&response_mode=form_post&response_type=code%20id_token&resource=00000003-0000-0ff1-ce00-000000000000&scope=openid&nonce=415300E2F8BF5F4975BC7ACD508914B2C410965EC9F978BD-91E16869E511D349356D44313A5613EBFEB5F1BCBA476ED865D046C86AC56110&redirect_uri=https:%2F%2Fjll2.sharepoint.com%2F_forms%2Fdefault.aspx&wsucxt=1&cobrandid=11bd8083-87e0-41b5-bb78-0bc43c8a8e8a&client-request-id=7160a39e-b06a-7000-f408-27dc8d8dedff" target="_blank">Three-year Beyond Goals</a>
+    </mj-text>
+
+    <mj-text>
+      <a href="https://login.microsoftonline.com/bfef2b06-d256-4f8e-bd03-8d3687987063/oauth2/authorize?client_id=00000003-0000-0ff1-ce00-000000000000&response_mode=form_post&response_type=code%20id_token&resource=00000003-0000-0ff1-ce00-000000000000&scope=openid&nonce=966AB775E4D8BAEACAC81124F60985AB632693613114598C-CBD56015A1C6EB258AB6CF7AA9D533BB255F257034E7F27F8AFFC62760F31D3D&redirect_uri=https:%2F%2Fjll2.sharepoint.com%2F_forms%2Fdefault.aspx&wsucxt=1&cobrandid=11bd8083-87e0-41b5-bb78-0bc43c8a8e8a&client-request-id=7160a39e-a09e-7000-f408-2d92215d2352" target="_blank">Understanding Performance Share Units</a>
+    </mj-text>
+
+    <mj-text>
+      <a href="https://login.microsoftonline.com/bfef2b06-d256-4f8e-bd03-8d3687987063/oauth2/authorize?client_id=00000003-0000-0ff1-ce00-000000000000&response_mode=form_post&response_type=code%20id_token&resource=00000003-0000-0ff1-ce00-000000000000&scope=openid&nonce=7C2F9C577BCA4BCE3686FAF7EBC3C6F5B87880ED7CC22EC0-87AA41260926A4E4FDFB273EDCBF5CBCAA0B3BA5BA77B409A5FBAA227CF330D8&redirect_uri=https:%2F%2Fjll2.sharepoint.com%2F_forms%2Fdefault.aspx&wsucxt=1&cobrandid=11bd8083-87e0-41b5-bb78-0bc43c8a8e8a&client-request-id=7160a39e-c0e3-7000-f408-22a06f859f47" target="_blank">Understanding Overlapping Grants</a>
+    </mj-text>
+
+    <mj-text>
+      <a href="https://login.microsoftonline.com/bfef2b06-d256-4f8e-bd03-8d3687987063/oauth2/authorize?client_id=00000003-0000-0ff1-ce00-000000000000&response_mode=form_post&response_type=code%20id_token&resource=00000003-0000-0ff1-ce00-000000000000&scope=openid&nonce=1DAC1159123C09FE4D1FB417EC6C581BD4B735DFF3FE77E3-3892FB88C29577D5A19BAC0C0DE05B0C5D5FEAC527B94C7E6B7D8FC8029F668F&redirect_uri=https:%2F%2Fjll2.sharepoint.com%2F_forms%2Fdefault.aspx&wsucxt=1&cobrandid=11bd8083-87e0-41b5-bb78-0bc43c8a8e8a&client-request-id=7260a39e-903f-7000-f408-2e4f8395a318" target="_blank">PSU Award Agreement Overview</a>
+    </mj-text>
+
+  </mj-column>
+</mj-section>
