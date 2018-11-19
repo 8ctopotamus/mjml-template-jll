@@ -1,10 +1,10 @@
 <mj-section background-color="#000000">
-  <mj-column padding="0">
+  <mj-column padding="0" width="70%">
     <mj-text align="left" mj-class="red-text" font-size="20px">Your 2018 LTIP Grant</mj-text>
     <mj-image src="https://icshelpsyou.com/wp-content/uploads/2018/11/performance-share-units.jpg" align="center" />
   </mj-column>
-  <mj-column>
-    <mj-image src="https://icshelpsyou.com/wp-content/uploads/2018/11/jll-logo.jpg" align="right" width="160px" padding-top="0"></mj-image>
+  <mj-column width="30%">
+    <mj-image src="https://icshelpsyou.com/wp-content/uploads/2018/11/jll-logo.jpg" align="center" width="160px" padding-top="0"></mj-image>
   </mj-column>
 </mj-section>
 
