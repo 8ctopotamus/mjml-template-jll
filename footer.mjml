@@ -1,37 +1,34 @@
 <mj-image src="https://icshelpsyou.com/wp-content/uploads/2018/11/paint-footer.jpg" padding="0"></mj-image>
 
-<mj-section mj-class="grey">
+<mj-section css-class="footer" mj-class="grey">
   <mj-column width="70%">
-    <mj-text>
-      <h2 mj-class="red-text">Become familiar with JLL's Long-Term Initiative Program</h2>
+    <mj-text mj-class="red-text" padding-bottom="0">
+      <h2 style="font-weight: normal;">Become familiar with JLL's Long-Term Initiative Program</h2>
     </mj-text>
-    <mj-text>The Incentive Program is an important part of your overall compensation. Please take some time to review the Overview links. These explain the Initiative Program and our Beyond Goals.</mj-text>
+    <mj-text padding-top="0">The Incentive Program is an important part of your overall compensation. Please take some time to review the Overview links. These explain the Initiative Program and our Beyond Goals.</mj-text>
     <mj-image src="https://icshelpsyou.com/wp-content/uploads/2018/11/jll-signature.jpg"></mj-image>
   </mj-column>
-  <mj-column width="30%">
+  <mj-column mj-class="sidebar" width="30%">
+    <mj-divider border-width="1px" border-color="#ffffff" padding="5px 25px" />
     <mj-text>
-      <h2>Links</h2>
+      <a href="https://login.microsoftonline.com/bfef2b06-d256-4f8e-bd03-8d3687987063/oauth2/authorize?client_id=00000003-0000-0ff1-ce00-000000000000&response_mode=form_post&response_type=code%20id_token&resource=00000003-0000-0ff1-ce00-000000000000&scope=openid&nonce=3C1856328088094FAE11D1B05311E30B9EB0F6CA379858E8-FBC9AAAE379A105E66193DC784E3F380AA0BAB06039F5CB3B916C1B02431A4B3&redirect_uri=https:%2F%2Fjll2.sharepoint.com%2F_forms%2Fdefault.aspx&wsucxt=1&cobrandid=11bd8083-87e0-41b5-bb78-0bc43c8a8e8a&client-request-id=87b2a39e-d0f5-7000-6038-c7e3fb7fbdc6">Long-Term Incentive Plan Overview</a>
     </mj-text>
-
+		<mj-divider border-width="1px" border-color="#ffffff" padding="5px 25px" />
     <mj-text>
-      <a href="https://login.microsoftonline.com/bfef2b06-d256-4f8e-bd03-8d3687987063/oauth2/authorize?client_id=00000003-0000-0ff1-ce00-000000000000&response_mode=form_post&response_type=code%20id_token&resource=00000003-0000-0ff1-ce00-000000000000&scope=openid&nonce=A683607F6CE058682ACBAC0EBBFB33134AF808CB57B4DA28-C04AF9E7B077FE325AD099EC878218B8BDE081210FDBBDE12D342369FDBFC414&redirect_uri=https:%2F%2Fjll2.sharepoint.com%2F_forms%2Fdefault.aspx&wsucxt=1&cobrandid=11bd8083-87e0-41b5-bb78-0bc43c8a8e8a&client-request-id=7160a39e-405c-7000-f408-2671365200f3">Long-Term Initiative Plan Overview</a>
+      <a href="https://login.microsoftonline.com/bfef2b06-d256-4f8e-bd03-8d3687987063/oauth2/authorize?client_id=00000003-0000-0ff1-ce00-000000000000&response_mode=form_post&response_type=code%20id_token&resource=00000003-0000-0ff1-ce00-000000000000&scope=openid&nonce=62AD606AD0B3C034431663C67812CB4EF4DD5C5C8A29A046-8D76984EA6CE1DB9E83030DEB44B6A32C879D637314981EFD7A3EF0DB32B26F4&redirect_uri=https:%2F%2Fjll2.sharepoint.com%2F_forms%2Fdefault.aspx&wsucxt=1&cobrandid=11bd8083-87e0-41b5-bb78-0bc43c8a8e8a&client-request-id=8eb2a39e-c0ed-7000-6038-c58418591f21" target="_blank">Three-year Beyond Goals (2018-2020)</a>
     </mj-text>
-
+		<mj-divider border-width="1px" border-color="#ffffff" padding="5px 25px" />
     <mj-text>
-      <a href="https://login.microsoftonline.com/bfef2b06-d256-4f8e-bd03-8d3687987063/oauth2/authorize?client_id=00000003-0000-0ff1-ce00-000000000000&response_mode=form_post&response_type=code%20id_token&resource=00000003-0000-0ff1-ce00-000000000000&scope=openid&nonce=415300E2F8BF5F4975BC7ACD508914B2C410965EC9F978BD-91E16869E511D349356D44313A5613EBFEB5F1BCBA476ED865D046C86AC56110&redirect_uri=https:%2F%2Fjll2.sharepoint.com%2F_forms%2Fdefault.aspx&wsucxt=1&cobrandid=11bd8083-87e0-41b5-bb78-0bc43c8a8e8a&client-request-id=7160a39e-b06a-7000-f408-27dc8d8dedff" target="_blank">Three-year Beyond Goals</a>
+      <a href="https://login.microsoftonline.com/bfef2b06-d256-4f8e-bd03-8d3687987063/oauth2/authorize?client_id=00000003-0000-0ff1-ce00-000000000000&response_mode=form_post&response_type=code%20id_token&resource=00000003-0000-0ff1-ce00-000000000000&scope=openid&nonce=14181B941ED909553CF7FF0889DAE22FF00B3CE2B01A32BE-AA6432DA2F6BFA68344D5EC86AAB9FBA4CF12F1C306E749A36A9717CC445C81C&redirect_uri=https:%2F%2Fjll2.sharepoint.com%2F_forms%2Fdefault.aspx&wsucxt=1&cobrandid=11bd8083-87e0-41b5-bb78-0bc43c8a8e8a&client-request-id=92b2a39e-e027-7000-f408-2776b71ac0fc" target="_blank">Understanding Performance Share Units</a>
     </mj-text>
-
+		<mj-divider border-width="1px" border-color="#ffffff" padding="5px 25px" />
     <mj-text>
-      <a href="https://login.microsoftonline.com/bfef2b06-d256-4f8e-bd03-8d3687987063/oauth2/authorize?client_id=00000003-0000-0ff1-ce00-000000000000&response_mode=form_post&response_type=code%20id_token&resource=00000003-0000-0ff1-ce00-000000000000&scope=openid&nonce=966AB775E4D8BAEACAC81124F60985AB632693613114598C-CBD56015A1C6EB258AB6CF7AA9D533BB255F257034E7F27F8AFFC62760F31D3D&redirect_uri=https:%2F%2Fjll2.sharepoint.com%2F_forms%2Fdefault.aspx&wsucxt=1&cobrandid=11bd8083-87e0-41b5-bb78-0bc43c8a8e8a&client-request-id=7160a39e-a09e-7000-f408-2d92215d2352" target="_blank">Understanding Performance Share Units</a>
+      <a href="https://login.microsoftonline.com/bfef2b06-d256-4f8e-bd03-8d3687987063/oauth2/authorize?client_id=00000003-0000-0ff1-ce00-000000000000&response_mode=form_post&response_type=code%20id_token&resource=00000003-0000-0ff1-ce00-000000000000&scope=openid&nonce=31B114B87F774F945AF72F529C31CA139A37637DE89763C8-7A0DBCB22A9C9A02FEFC59D2751309580BDC858DBBD720A59711E53A20D9188E&redirect_uri=https:%2F%2Fjll2.sharepoint.com%2F_forms%2Fdefault.aspx&wsucxt=1&cobrandid=11bd8083-87e0-41b5-bb78-0bc43c8a8e8a&client-request-id=96b2a39e-b012-7000-6038-c6e3c9a49c25" target="_blank">Understanding Overlapping Grants</a>
     </mj-text>
-
+		<mj-divider border-width="1px" border-color="#ffffff" padding="5px 25px" />
     <mj-text>
-      <a href="https://login.microsoftonline.com/bfef2b06-d256-4f8e-bd03-8d3687987063/oauth2/authorize?client_id=00000003-0000-0ff1-ce00-000000000000&response_mode=form_post&response_type=code%20id_token&resource=00000003-0000-0ff1-ce00-000000000000&scope=openid&nonce=7C2F9C577BCA4BCE3686FAF7EBC3C6F5B87880ED7CC22EC0-87AA41260926A4E4FDFB273EDCBF5CBCAA0B3BA5BA77B409A5FBAA227CF330D8&redirect_uri=https:%2F%2Fjll2.sharepoint.com%2F_forms%2Fdefault.aspx&wsucxt=1&cobrandid=11bd8083-87e0-41b5-bb78-0bc43c8a8e8a&client-request-id=7160a39e-c0e3-7000-f408-22a06f859f47" target="_blank">Understanding Overlapping Grants</a>
+      <a href="https://login.microsoftonline.com/bfef2b06-d256-4f8e-bd03-8d3687987063/oauth2/authorize?client_id=00000003-0000-0ff1-ce00-000000000000&response_mode=form_post&response_type=code%20id_token&resource=00000003-0000-0ff1-ce00-000000000000&scope=openid&nonce=75B5BC4E06691D8950DB804A47A734842F4C0E22C663DC96-51CA8821A90391BDA7CF1FA76F99BB7AA1EBA1B20706CC5FF568293FF457F7E7&redirect_uri=https:%2F%2Fjll2.sharepoint.com%2F_forms%2Fdefault.aspx&wsucxt=1&cobrandid=11bd8083-87e0-41b5-bb78-0bc43c8a8e8a&client-request-id=96b2a39e-609c-7000-f408-20dd8ad93b4b" target="_blank">PSU Award Agreement Overview</a>
     </mj-text>
-
-    <mj-text>
-      <a href="https://login.microsoftonline.com/bfef2b06-d256-4f8e-bd03-8d3687987063/oauth2/authorize?client_id=00000003-0000-0ff1-ce00-000000000000&response_mode=form_post&response_type=code%20id_token&resource=00000003-0000-0ff1-ce00-000000000000&scope=openid&nonce=1DAC1159123C09FE4D1FB417EC6C581BD4B735DFF3FE77E3-3892FB88C29577D5A19BAC0C0DE05B0C5D5FEAC527B94C7E6B7D8FC8029F668F&redirect_uri=https:%2F%2Fjll2.sharepoint.com%2F_forms%2Fdefault.aspx&wsucxt=1&cobrandid=11bd8083-87e0-41b5-bb78-0bc43c8a8e8a&client-request-id=7260a39e-903f-7000-f408-2e4f8395a318" target="_blank">PSU Award Agreement Overview</a>
-    </mj-text>
-
+		<mj-divider border-width="1px" border-color="#ffffff" padding="5px 25px" />
   </mj-column>
 </mj-section>

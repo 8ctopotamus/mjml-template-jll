@@ -8,11 +8,11 @@
     <mj-style inline="inline">
       a {
         color: black;
-      }      
-      mj-button { 
-        background-color: #ed1d25;
-        color: white;
-      	padding: 10px;
+      	text-decoration: none;
+      }
+      .footer a {
+      	color: #ffffff;
+      	display: block;
       }
     </mj-style>
   </mj-head>
